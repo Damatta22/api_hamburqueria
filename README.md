@@ -3,7 +3,7 @@ Neste projeto utilizei tecnologias  Node,  Insomnia, express, uuid, midllewares.
 
 Esté projeto foi muito importante para me agregar conhecimento, com ele pude aprender como 
 trabalhar front-end  com back-end, pude ver o quanto as bibliotecas nos ajudam utilizando no 
-projeto express, uuid, para criamos a identificação de cada pedido, e poder manipula-lós e encontrar cada pedido.
+projeto express, uuid, para criarmos a identificação de cada pedido, e poder manipula-lós e encontrar cada pedido.
 Neste projeto utilizamos também diferentes formas de requisições, por request.body,
 request.params e request.url.
 Utilizamos o middleware para interceptar as rotas quando nescessário, fazer verificação de ID,
