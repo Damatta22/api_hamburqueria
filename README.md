@@ -14,8 +14,7 @@ Deixo aqui abaixo as rotas utilizadas no projeto e um resumo da aplicação que 
 <h1>POST</h1>
 
 Utilizando rotas do tipo POST criamos no body do Insomnia os pedidos com os dados
-do Pedido, nome do cliente, valor a ser pago, e status de pedido se em preparação
-ou pronto.
+do Pedido, nome do cliente, valor a ser pago, e status de pedido em preparação.
 
 <h1>GET</h1>
 
