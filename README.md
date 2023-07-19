@@ -1,4 +1,4 @@
-# API DE REQUISIÇÔES DE UMA HAMBURGUERIA
+# API DE REQUISIÇÕES DE UMA HAMBURGUERIA
 Neste projeto utilizei tecnologias  Node,  Insomnia, express, uuid, midllewares.
 
 Esté projeto foi muito importante para me agregar conhecimento, com ele pude aprender como 
